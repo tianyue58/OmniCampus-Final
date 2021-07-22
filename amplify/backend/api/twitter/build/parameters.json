@@ -1,0 +1,8 @@
+{
+    "CreateAPIKey": 1,
+    "AppSyncApiName": "twitter",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-twitter-dev-163312-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/dd23a736a6d68f8cceb338dbb17bf1688604debc"
+}
