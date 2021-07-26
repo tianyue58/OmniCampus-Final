@@ -113,9 +113,10 @@ Check out the example of how this project can be used.
 
 <div align="center">
 
-<h4 align="center">Signup Screen (aws default) &nbsp&nbsp&nbsp&nbsp | &nbsp&nbsp&nbsp&nbsp Signin Screen (aws default)</h4>
-<img height=480 width=240 style="margin: 10px;" src="assets/images/aws_default.png"/>
-<img height=480 width=240 style="margin: 10px;" src="assets/images/aws_default 2.png"/>
+<h4 align="center">Signup Screen (aws default) &nbsp&nbsp&nbsp&nbsp | &nbsp&nbsp&nbsp&nbsp Confirm Signup Screen (aws default)  &nbsp&nbsp&nbsp&nbsp | &nbsp&nbsp&nbsp&nbsp Signin Screen (aws default) </h4>
+<img height=480 width=240 style="margin: 10px;" src="assets/images/signup.png"/>
+<img height=480 width=240 style="margin: 10px;" src="assets/images/signup2.png"/>
+ <img height=480 width=240 style="margin: 10px;" src="assets/images/signin.png"/>
 
 
 <h4 align="center">User Home Screen &nbsp&nbsp&nbsp&nbsp | &nbsp&nbsp&nbsp&nbsp New Post Screen</h4>
