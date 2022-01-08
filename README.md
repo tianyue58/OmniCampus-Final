@@ -15,7 +15,7 @@
     <a href="https://github.com/tianyue58/OmniCampus-Final#readme"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/tianyue58/OmniCampus-Final/edit/master/README.md#demo">View Demo</a>
+    <a href="https://github.com/tianyue58/OmniCampus-Final#demo">View Demo</a>
     ·
     <a href="https://github.com/tianyue58/OmniCampus-Final/issues">Report Bug</a>
     ·
@@ -47,7 +47,6 @@
         <li><a href="#demo">Demo</a></li>
       </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -132,12 +131,6 @@ Check out the example of how this project can be used.
 
 </div>
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/tianyue58/OmniCampus-Final/issues) for a list of proposed features (and known issues).
-
 <!-- CONTACT -->
 ## Contact
 
@@ -145,4 +138,4 @@ Qu Tianyue - qutianyue58@gmail.com
 
 Lu Yan Yang - luyanyang1@gmail.com
 
-Project Link: [https://github.com/tainyue58/OmniCampus-Final](https://github.com/tainyue58/OmniCampus-Final)
+Project Link: [https://github.com/tianyue58/OmniCampus-Final](https://github.com/tainyue58/OmniCampus-Final)
