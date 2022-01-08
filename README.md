@@ -138,4 +138,4 @@ Qu Tianyue - qutianyue58@gmail.com
 
 Lu Yan Yang - luyanyang1@gmail.com
 
-Project Link: [https://github.com/tianyue58/OmniCampus-Final](https://github.com/tainyue58/OmniCampus-Final)
+Project Link: [https://github.com/tianyue58/OmniCampus-Final](https://github.com/tianyue58/OmniCampus-Final)
