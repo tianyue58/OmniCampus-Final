@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/tianyue58/Orbital_Team_Runtime_Error">
+  <a href="https://github.com/tianyue58/OmniCampus-Final">
     <img src="assets/images/Omni Campus.png" alt="Logo" width="140" height="140">
   </a>
  
@@ -12,14 +12,14 @@
   <p align="center">
     A social networking mobile app developed for NUS community!
     <br />
-    <a href="https://github.com/tianyue58/Orbital_Team_Runtime_Error"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/tianyue58/OmniCampus-Final#readme"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/tianyue58/Orbital_Team_Runtime_Error">View Demo</a>
+    <a href="https://github.com/tianyue58/OmniCampus-Final/edit/master/README.md#demo">View Demo</a>
     ·
-    <a href="https://github.com/tianyue58/Orbital_Team_Runtime_Error/issues">Report Bug</a>
+    <a href="https://github.com/tianyue58/OmniCampus-Final/issues">Report Bug</a>
     ·
-    <a href="https://github.com/tianyue58/Orbital_Team_Runtime_Error/issues">Request Feature</a>
+    <a href="https://github.com/tianyue58/OmniCampus-Final/issues">Request Feature</a>
   </p>
 </p>
 
@@ -136,7 +136,7 @@ Check out the example of how this project can be used.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/tianyue58/Orbital_Team_Runtime_Error/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/tianyue58/OmniCampus-Final/issues) for a list of proposed features (and known issues).
 
 <!-- CONTACT -->
 ## Contact
@@ -145,4 +145,4 @@ Qu Tianyue - qutianyue58@gmail.com
 
 Lu Yan Yang - luyanyang1@gmail.com
 
-Project Link: [https://github.com/tainyue58/Orbital_Team_Runtime_Error](https://github.com/tainyue58/Orbital_Team_Runtime_Error)
+Project Link: [https://github.com/tainyue58/OmniCampus-Final](https://github.com/tainyue58/OmniCampus-Final)
